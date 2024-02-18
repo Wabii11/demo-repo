@@ -1,4 +1,4 @@
 # Demo
 
-some Discreption
+This Demo is to practice Git before doing Assignment
 
